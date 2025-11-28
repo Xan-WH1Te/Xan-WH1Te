@@ -1,5 +1,11 @@
-<h2 align="left">Hi 👋! My name is XanWH1Te and I'm a student major in CS, from WUT</h2>
+<h2 align="left">Hi 👋! My name is XanWH1Te and I'm a student majoring in CS, from WUT</h2>
 
+###
+TO-DO
+- [ ] Introductory C Programming from DUKE
+- [ ] MISSING SEMESTER from MIT
+
+###
 ###
 
 <div align="center">
