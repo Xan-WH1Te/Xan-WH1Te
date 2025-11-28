@@ -8,7 +8,7 @@ TO-LEARN
 - [ ] MISSING SEMESTER from MIT
 
 FINISHED
-- [x] CS50
+- [x] CS50 from Harvard
 ###
 ###
 
