@@ -1,10 +1,13 @@
 <h2 align="left">Hi 👋! My name is XanWH1Te and I'm a student majoring in CS, from WUT</h2>
 
 ###
-TO-DO
+Course:
+
+TO-LEARN
 - [ ] Introductory C Programming from DUKE
 - [ ] MISSING SEMESTER from MIT
-
+FINISHED
+- [y] CS50
 ###
 ###
 
