@@ -6,6 +6,7 @@ Course:
 TO-LEARN
 - [ ] Introductory C Programming from DUKE
 - [ ] MISSING SEMESTER from MIT
+
 FINISHED
 - [x] CS50
 ###
