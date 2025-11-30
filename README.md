@@ -12,11 +12,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=xan-wh1te&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=xan-wh1te&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xan-wh1te&icon=4&color=0)](https://visitcount.itsvg.in)
-###
 <img src="https://ghchart.rshah.org/7B68EE/xan-wh1te" />
